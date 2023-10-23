@@ -1,2 +1,2 @@
 # Number_tracker
-basic information about phne numbers for free
+basic information about phone numbers for free
